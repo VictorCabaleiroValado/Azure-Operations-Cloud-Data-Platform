@@ -1,4 +1,4 @@
-# Azure Operations Data Platform
+# Azure Operations Cloud Data Platform | Cloud Data Engineering, Azure & Python
 
 An Azure portfolio project by **Victor Manuel Cabaleiro Valado**: receive supplier inventory files, check them, and publish a consistent view of electronics stock across **Madrid Centro, Leganés, Sanchinarro and Pedrezuela**.
 
