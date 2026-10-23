@@ -4,6 +4,8 @@ An Azure portfolio project by **Victor Manuel Cabaleiro Valado**: receive suppli
 
 The business is fictional. All suppliers, products, quantities and warehouse locations are synthetic demonstration data. The map uses the OpenFreeMap Bright vector basemap with optional 3D buildings, based on OpenStreetMap; markers do not identify real company premises.
 
+![Live Azure Operations overview: four Madrid warehouses, inventory indicators and processing status](docs/screenshots/overview.png?v=df5b106c)
+
 [Live Azure application](https://operations-web.icystone-6e204dad.westus2.azurecontainerapps.io) · [Free read-only demo](https://victorcabaleirovalado.github.io/azure-operations-data-platform/)
 
 ## Try the workflow
